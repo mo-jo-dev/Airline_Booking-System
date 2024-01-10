@@ -65,3 +65,5 @@ https://github.com/mo-jo-dev/API_Gateway
     - `npm i cron`
     - `npm i nodemailer`
     - `npm i amqplib`
+OR
+- `You can directly check in the package.json file regarding the dependencies that are there in the project and from there, install it`

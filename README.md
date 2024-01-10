@@ -52,7 +52,7 @@ https://github.com/mo-jo-dev/API_Gateway
 ```
 
 ## PROJECT SETUP
-- Clone the github Repository using `git clone `
+- Clone the github Repository using `git clone https://github.com/mo-jo-dev/Airline_Booking-System.git`
 - Run the following Commands in your terminal after setting the correct path
     - `npm init`
     - `npm i express`
